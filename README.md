@@ -1,13 +1,7 @@
 # flipping-awesome
 
 # Instructions
-## The class will complete this exercise together as a group.  The
-##  picker.html file is tuned-for the ATX group and will randomly
-##  pick students and start a 5 minute countdown.  When the countdown
-##  finishes, the next student will share their screen, come up front,
-##  and continue working on the problem with the group.  Everyone 
-##  will work on the code on their own computers, sharing their 
-##  screen with the class during their 5 minute window.
+## The class will complete this exercise together as a group.  The  picker.html file is tuned-for the ATX group and will randomly pick students and start a 5 minute countdown.  When the countdown finishes, the next student will share their screen, come up front, and continue working on the problem with the group.  Everyone will work on the code on their own computers, sharing their screen with the class during their 5 minute window.
 
 # Objectives:
 
@@ -30,8 +24,8 @@
 ##    plain buttons.  Nobody.
 
 
-## Start by talking through/white-boarding the problem and list 
-##  out what steps you need to take to reach the objective.
+# Hints:
+## Start by talking through/white-boarding the problem and list out what steps you need to take to reach the objective.
 
 ## Declare variables and set up cached element references.
 
@@ -39,8 +33,6 @@
 
 ## Set up en event handler that calls a function on button-click.
 
-## Set up the function to necessary actions when the event handler
-##  is activated.
+## Set up the function to necessary actions when the event handler is activated.
 
-## Set up a render function to display any changes made to state
-##  variables on the screen.
+## Set up a render function to display any changes made to state variables on the screen.
